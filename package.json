@@ -1,0 +1,27 @@
+{
+  "name": "animation-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibhavpatil28/animation-playground.git"
+  },
+  "keywords": [
+    "animation",
+    "javascript",
+    "html5",
+    "css3",
+    "canvas",
+    "svg"
+  ],
+  "author": "Vaibhav Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaibhavpatil28/animation-playground/issues"
+  },
+  "homepage": "https://github.com/vaibhavpatil28/animation-playground#readme"
+}
